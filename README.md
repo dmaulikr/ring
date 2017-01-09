@@ -1,4 +1,4 @@
-# .ring
+# .Ring
 2D iOS Game with Sprite Kit
 ## Screenshots from iPhone 6
 ![][ss1] ![][ss2] ![][ss3] ![][ss4]
